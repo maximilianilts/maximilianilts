@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Max
-- 👀 I’m an Fullstack Developer
+- 👀 I’m a Fullstack Developer
 - 📫 How to reach me hello@milts.de
 
 <!---
